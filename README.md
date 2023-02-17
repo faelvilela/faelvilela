@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring, MySql and Selenium**
 
-- 👨‍💻 My portfolio [Loading...](Loading...)
+- 👨‍💻 My portfolio [https://faelvilela.github.io/portfolio_ang/](https://faelvilela.github.io/portfolio_ang/)
 
 - 📫 How to reach me **rafavilelaf55@gmail.com**
 
