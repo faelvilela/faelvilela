@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Vilela</h1>
 <h3 align="center">I love automation and to do things the most effective way possible.</h3>
 
-- 🌱 I’m currently learning **Spring, MySql and Selenium**
+- 🌱 I’m currently learning **C, MySql and Selenium**
 
 - 👨‍💻 My portfolio [https://faelvilela.github.io/portfolio_ang/](https://faelvilela.github.io/portfolio_ang/)
 
